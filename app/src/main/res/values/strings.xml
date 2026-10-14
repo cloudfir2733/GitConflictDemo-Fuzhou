@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitConflictDemo-Fuzhou</string>
+    <string name="screen_title">Git Conflict Demo</string>
+    <string name="first_button">First Button</string>
+    <string name="second_button">Second Button</string>
+    <string name="first_button_clicked">First Button clicked</string>
+    <string name="second_button_clicked">Second Button clicked</string>
+</resources>
